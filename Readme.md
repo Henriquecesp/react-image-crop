@@ -10,20 +10,24 @@
 </p>
 
 <p align="center">
-  <a href="#-technologys">🚀 Technologys</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-techs">🚀 Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">🤔 How to contribute</a>
 </p>
 
 <br>
 
-## 🚀 Technologys
-
-Typescript, React, Vite, XState, Styled Components, react-dropzone
-
 ## 💻 Project
 
 React component using Typescript to let users upload and crop avatars.
+
+<p align="center">
+    <img src="https://svgshare.com/i/RBA.svg" alt="Image" width="500"/>
+</p>
+
+## 🚀 Techs
+
+Typescript, React, Vite, XState, Styled Components, react-dropzone
 
 ## 🤔 How to contribute
 
