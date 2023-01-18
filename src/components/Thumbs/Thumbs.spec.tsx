@@ -1,7 +1,7 @@
-import { render, waitFor } from '@testing-library/react'
+import { render } from '@testing-library/react'
 import { Thumbs } from './Thumbs'
 
-describe('Initial Component', () => {
+describe('Thumbs Component', () => {
   global.URL.createObjectURL = jest.fn()
   global.URL.revokeObjectURL = jest.fn()
   const props = {

@@ -5,7 +5,7 @@ import { interpret } from 'xstate'
 import { formMachine } from '../../StateMachine/machine'
 import { ErrorStep } from './Error'
 
-describe('Initial Component', () => {
+describe('Error Component', () => {
   beforeEach(() => {
     jest.clearAllMocks()
   })

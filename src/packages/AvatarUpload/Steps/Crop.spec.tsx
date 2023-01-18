@@ -5,7 +5,7 @@ import { interpret } from 'xstate'
 import { formMachine } from '../../StateMachine/machine'
 import { CropStep } from './Crop'
 
-describe('Initial Component', () => {
+describe('Crop Component', () => {
   beforeEach(() => {
     jest.clearAllMocks()
   })
