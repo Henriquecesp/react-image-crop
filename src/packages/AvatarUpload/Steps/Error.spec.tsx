@@ -22,7 +22,7 @@ describe('Error Component', () => {
     sendEvent: jest.fn(),
   }
 
-  it('should render input to upload file', () => {
+  it('should render the error step', () => {
     const { getByText } = render(<ErrorStep />)
     const title = getByText('Sorry, the upload failed.')
     const saveTitle = getByText('Try Again.')

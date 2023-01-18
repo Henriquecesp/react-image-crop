@@ -22,7 +22,7 @@ describe('Crop Component', () => {
     sendEvent: jest.fn(),
   }
 
-  it('should render input to upload file', () => {
+  it('should render the crop step', () => {
     const { getByText } = render(<CropStep />)
     const title = getByText('Crop')
     const saveTitle = getByText('Save')
